@@ -1,0 +1,250 @@
+{
+"customers": [
+{
+    "id": 39969,
+    "newOne": false,
+    "name": {
+        "readable": true,
+        "writable": true,
+        "value": "윤대호"
+    },
+    "gaNo": 22796369,
+    "phoneCallCount": 66,
+    "lmsConsent": {
+        "readable": true,
+        "writable": true,
+        "value": false
+    },
+    "counselor": {
+        "id": 463,
+        "name": "홍은표",
+        "email": "joseph.hong"
+    },
+    "lastCounselRequestedAt": "2022-10-19 18:56",
+    "birthDate": {
+        "readable": true,
+        "writable": true,
+        "value": "1992-02-21"
+    },
+    "counselAvailableTimeWindow": null,
+    "counselRequestNotice": "HAVE_INSURANCE_UNACTIVATED",
+    "counselType": null,
+    "counselPurpose": "HAVE_INSURANCE_UNACTIVATED",
+    "fiveMinCounsel": true,
+    "jobName": {
+        "readable": true,
+        "writable": true,
+        "value": "교차설계사"
+    },
+    "officeName": {
+        "readable": true,
+        "writable": true,
+        "value": ""
+    },
+    "height": {
+        "readable": true,
+        "writable": true,
+        "value": 182.0
+    },
+    "weight": {
+        "readable": true,
+        "writable": true,
+        "value": 74.0
+    },
+    "address": {
+        "readable": true,
+        "writable": true,
+        "value": null
+    },
+    "postalAddress": {
+        "readable": true,
+        "writable": true,
+        "value": null
+    },
+    "phoneNumber": {
+        "readable": true,
+        "writable": true,
+        "value": "010-2207-2483"
+    },
+    "counselLogs": [
+        {
+            "id": 2149046,
+            "counselAt": "2021-07-13 14:28:24",
+            "counselorName": "윤대호",
+            "status": "청약중",
+            "counselCallLogType": null,
+            "insuranceCompanyName": null,
+            "content": "M-2021-0362335\n무배당 하나 가득담은 건강보험(2104)\n13,159\n30년납30년만기\n부담보승인\n★수술부위 재발 2회 수술건   피부 5년 부담보 승인",
+            "callRecord": null
+        },
+        {
+            "id": 550489,
+            "counselAt": "2020-04-27 14:21:20",
+            "counselorName": "윤대호",
+            "status": "가입완료",
+            "counselCallLogType": null,
+            "insuranceCompanyName": null,
+            "content": "",
+            "callRecord": {
+                "id": 344163,
+                "startAt": "2020-04-27 14:20:59",
+                "endAt": "2020-04-27 14:21:13",
+                "durationInSeconds": 14
+            }
+        },
+        {
+            "id": 467665,
+            "counselAt": "2020-04-13 20:01:54",
+            "counselorName": "윤대호",
+            "status": "부재종결",
+            "counselCallLogType": null,
+            "insuranceCompanyName": null,
+            "content": "시간이 늦어져서 오늘 힘들다고 함",
+            "callRecord": {
+                "id": 335915,
+                "startAt": "2020-04-13 20:00:52",
+                "endAt": "2020-04-13 20:01:41",
+                "durationInSeconds": 49
+            }
+        },
+        {
+            "id": 150657,
+            "counselAt": "2019-08-30 18:03:03",
+            "counselorName": "윤대호",
+            "status": "제안서발송",
+            "counselCallLogType": null,
+            "insuranceCompanyName": null,
+            "content": "",
+            "callRecord": {
+                "id": 96223,
+                "startAt": "2019-08-30 18:02:22",
+                "endAt": "2019-08-30 18:02:31",
+                "durationInSeconds": 9
+            }
+        }
+    ],
+    "contracts": [
+        {
+            "id": 117936,
+            "contractorName": "윤대호",
+            "insuredNames": [
+                "윤대호"
+            ],
+            "policyNo": "FA20222616592000",
+            "insuranceCompanyName": null,
+            "insuranceProductName": null,
+            "amount": 8650,
+            "changeAmount": 0,
+            "receiveAt": "2022-11-02",
+            "paymentCycle": "일시납",
+            "paymentPeriod": null,
+            "counselorName": "재인입",
+            "afterQcStatus": null,
+            "autographDone": false,
+            "autographAt": null,
+            "counseledAt": "2022-11-21"
+        },
+        {
+            "id": 54590,
+            "contractorName": "윤대호",
+            "insuredNames": [
+                "윤대호"
+            ],
+            "policyNo": "LA20213822190000",
+            "insuranceCompanyName": "롯데손해보험",
+            "insuranceProductName": "무배당 let:play 자녀보험(도담도담)(일반형)(2106)",
+            "amount": 19600,
+            "changeAmount": 0,
+            "receiveAt": "2021-07-22",
+            "paymentCycle": "월납",
+            "paymentPeriod": "30년납",
+            "counselorName": "윤대호",
+            "afterQcStatus": null,
+            "autographDone": true,
+            "autographAt": "2021-07-22",
+            "counseledAt": "2021-07-22"
+        },
+        {
+            "id": 18423,
+            "contractorName": "윤대호",
+            "insuredNames": [
+                "윤대호"
+            ],
+            "policyNo": "3190757104441",
+            "insuranceCompanyName": "NH농협손해보험",
+            "insuranceProductName": "(무) 헤아림실손의료비보험2004",
+            "amount": 10475,
+            "changeAmount": 0,
+            "receiveAt": "2020-09-28",
+            "paymentCycle": "월납",
+            "paymentPeriod": "15년납",
+            "counselorName": "윤대호",
+            "afterQcStatus": null,
+            "autographDone": true,
+            "autographAt": "2020-09-28",
+            "counseledAt": "2020-09-28"
+        },
+        {
+            "id": 8925,
+            "contractorName": "윤대호",
+            "insuredNames": [
+                "윤대호"
+            ],
+            "policyNo": "61435-23296",
+            "insuranceCompanyName": "메리츠화재",
+            "insuranceProductName": "(무)내Mom같은 어린이보험 1910 (해지환급미지급형)",
+            "amount": 24400,
+            "changeAmount": 0,
+            "receiveAt": "2019-12-02",
+            "paymentCycle": "월납",
+            "paymentPeriod": "30년납",
+            "counselorName": "윤대호",
+            "afterQcStatus": null,
+            "autographDone": true,
+            "autographAt": "2019-12-02",
+            "counseledAt": "2019-12-02"
+        }
+    ],
+    "counselRequestLogs": [
+        {
+            "id": 29307,
+            "counselRequestedAt": "2019-07-05 04:10",
+            "notice": "상담 타입 : 전체\n상담 가능 시간 : 00:00~24:00\n상담 가능 요일 : \n상담 지역 : 지역 정보 없음",
+            "leadType": "보장분석",
+            "subLeadType": []
+        },
+        {
+            "id": 66129,
+            "counselRequestedAt": "2019-10-29 14:56",
+            "notice": "보장분석 - 내 보장 분석 받기",
+            "leadType": "보장분석",
+            "subLeadType": []
+        },
+        {
+            "id": 1058438,
+            "counselRequestedAt": "2022-10-19 18:56",
+            "notice": "HAVE_INSURANCE_UNACTIVATED",
+            "leadType": null,
+            "subLeadType": []
+        }
+    ],
+    "gender": {
+        "readable": true,
+        "writable": true,
+        "value": "MALE"
+    },
+    "contractPossibility": {
+        "readable": true,
+        "writable": true,
+        "value": null
+    },
+    "jobLevel": {
+        "readable": true,
+        "writable": true,
+        "value": "1급"
+    },
+    "userLocation": "경기도 남양주시 ",
+    "isHandWrite": false
+}
+]
+}
